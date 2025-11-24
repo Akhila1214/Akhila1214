@@ -10,7 +10,7 @@ I’m a Developer with a Master’s in Computer Science (UTA 🎓) and 4+ years 
 
 - **Languages:** Java, C#, Python, TypeScript, Javascript 
 - **Backend:** Spring Boot, .NET, Node.js, REST APIs  
-- **Frontend:** React, Angular, HTML, CSS, Tailwind  
+- **Frontend:** React, Angular, HTML, CSS, Tailwind, Vue.js  
 - **Databases:** PostgreSQL, MySQL, SQL Server, MongoDB  
 - **Cloud:** AWS, GCP, Azure  
 - **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions, Terraform  
